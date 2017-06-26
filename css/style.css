@@ -42,11 +42,11 @@ body {
 	background-color:#999;	
 	list-style:none; 
 	border:1px solid ; 
-	position:inherit;
+	position:static;
 	
 	}
 .menu ul li {
-	position:inherit;
+	position:static;
 	display:inline;
 	float:left; 
 	border-right:1px solid #c0c0c0; 
@@ -57,7 +57,7 @@ body {
 	text-decoration:none;
 	color:#333; 	
 	text-decoration:none; 
-	padding:5px 54px;
+	padding:5px 57px;
 	display:block;
 	 }
 	 
