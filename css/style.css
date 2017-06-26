@@ -9,6 +9,7 @@ body {
 	background-attachment:fixed;
 
 	}
+
 #geral_home{
 	width: 1112px;
 	height: 800px;
@@ -46,16 +47,14 @@ body {
 .menu ul li {
 	position:static;
 	display:inline;
-	float:left; 
-	border-right:1px solid #c0c0c0; 
-	border-left:1px solid #c0c0c0; 
+	
 }
 .menu ul li a{
 	text-decoration:none;
 	color:#333; 	
 	text-decoration:none; 
-	padding:5px 50px 5px 50px;
-	display:block;
+	padding:5px 60px;
+	display:inline-block;
 	 }
 	 
 	
