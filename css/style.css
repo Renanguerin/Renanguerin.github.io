@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font family:"Calibri";
+	font size: 20px;
+	color:#000;
+	background:url(../imagens/lado1.jpg);
+	background-repeat: repeat;
+	background-attachment:fixed;
+
+	}
+#geral_home{
+	width: 1112px;
+	height: 800px;
+	margin: auto;
+	}
+	
+#conteudo { width:1122px;
+ 			height:1200px;
+ 			background-color:#FFF;
+			background-image:url(../imagens/back1.png);
+			background-position:bottom;
+			background-repeat:no-repeat;
+			margin:0 auto; 
+			}
+#final{width:1122;
+height:100;
+background-image:url(../imagens/back1.png);
+
+
+	
+	}
+	
+.topo_home{
+	width:1122px;
+	height:270px;
+	background:url(../imagens/download.png);
+	margin:auto;
+	position:relative;
+}
+
+
+.menu {
+	width:1120px;
+	height:40px;
+	font-size:22px;
+	margin:auto;
+	background:#999999;
+	list-style:none; 
+	border:1px solid #c0c0c0; 
+	position:relative;
+	
+
+	
+	}
+.menu ul li {
+	position:relative;
+	display:inline;
+	float:left; 
+	border-right:1px solid #c0c0c0; 
+	top:5px;
+	
+}
+.menu ul li a{
+	text-decoration:none;
+	color:#333; 	
+	text-decoration:none; 
+	padding:5px 57px;
+	display:block;
+	 }
+	 
+	
+
+
+.menu ul li a:hover{
+	text-decoration: none;
+	background:#333; 
+	color:#fff; 
+	
+}
+.menu ul li a:active {
+	text-decoration:none;
+	color:#FFF;
+}
+#titulos {
+	color: #000;
+	font-size: 45px;
+	font-family: fantasy;
+	}
+#caixa {
+	width:auto;
+	font-family:"Calibri";
+	font-size:24px;
+	
+	}
+
+#caixatexto{
+	width:450px;
+	height:360px;
+	float:right;
+	text-align:justify;
+	margin:40px 0 0 20px;
+	
+	}
+#fotohome{
+	width:auto;
+	height:200px;
+	float:left;
+	margin:40px 0 0 20px;
+	position:relative;
+	
+	}
+#fonte1{
+	color:#000;
+	font-size:25px;
+	}
+#regua{
+	 border:solid 1px #999;
+	 margin:20px;
+	 width:1122px;
+	 margin:auto;
+}
+	
+#social{
+	background:#333;
+	width:1122px;
+	height:25px;
+	float:left;
+	vertical-align:middle;
+	font-size:24px;
+	color:#CF3;
+	
+	}
+a.classe1:link, a.classe1:visited {
+	text-decoration:none;
+	color:#000;
+	}
+a.classe1:hover {
+	text-decoration:none; 
+	color:#0F3;
+	}
+a.classe1:active {
+	text-decoration:none;
+	}
+a.classe2:link, a.classe2:visited {
+	text-decoration:none;
+	color:#00F;
+	}
+a.classe2:hover {
+	text-decoration:none; 
+	color:#0F3;
+	}
+a.classe2:active {
+	text-decoration:none;
+	}
+
