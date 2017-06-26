@@ -29,7 +29,6 @@ body {
 	width:1122px;
 	height:270px;
 	background:url(../imagens/download.png);
-	margin:auto;
 	position:relative;
 }
 
@@ -38,7 +37,6 @@ body {
 	width:1120px;
 	height:30px;
 	font-size:22px;
-	margin:auto;
 	background-color:#999;	
 	list-style:none; 
 	border:1px solid ; 
@@ -57,7 +55,7 @@ body {
 	text-decoration:none;
 	color:#333; 	
 	text-decoration:none; 
-	padding:5px 57px;
+	padding:5px 57px 5px 57px;
 	display:block;
 	 }
 	 
