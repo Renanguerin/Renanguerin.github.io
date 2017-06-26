@@ -36,19 +36,17 @@ body {
 
 .menu {
 	width:1120px;
-	height:40px;
+	height:30px;
 	font-size:22px;
 	margin:auto;
-	background:#999999;
+	background-color:#999;	
 	list-style:none; 
-	border:1px solid #c0c0c0; 
+	border:1px solid ; 
 	position:static;
-	
-
 	
 	}
 .menu ul li {
-	position:relative;
+	position:static;
 	display:inline;
 	float:left; 
 	border-right:1px solid #c0c0c0; 
