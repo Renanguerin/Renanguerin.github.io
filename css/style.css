@@ -48,14 +48,13 @@ body {
 	display:inline;
 	float:left; 
 	border-right:1px solid #c0c0c0; 
-	top:5px;
-	
+	border-left:1px solid #c0c0c0; 
 }
 .menu ul li a{
 	text-decoration:none;
 	color:#333; 	
 	text-decoration:none; 
-	padding:5px 57px 5px 57px;
+	padding:5px 50px 5px 50px;
 	display:block;
 	 }
 	 
